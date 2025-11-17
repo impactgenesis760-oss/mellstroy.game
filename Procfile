@@ -1,3 +1,4 @@
-worker: python bot_game.py
+worker: main.py
 web: python -m http.server $PORT
+
 
